@@ -3,8 +3,10 @@
 > **Notice**
 > 1. 您无法在 git 仓库中直接找到数据，但可以在如下两个云盘中下载：
 
->   * 谷歌云盘: 
->   * 百度云盘: 
+>   * 谷歌云盘: https://drive.google.com/drive/folders/1uj9z4TmDmg3HfpYOUubXpcr1tQfDFsES?usp=sharing
+>   * 百度云盘: https://pan.baidu.com/s/1nKWsP_-z9VWHsJE9gmDRMQ?pwd=yhj9 
+提取码：yhj9 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 
 **Abstract:** 这是一个白噪音数据集，用于支持通过机器学习等方法解决通过白噪音判断房间的封闭性任务、有无人检测任务等。
 
